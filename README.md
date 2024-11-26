@@ -1,6 +1,6 @@
 # 🧮 Loan Application Classification with PCA and Multiple Classifiers
 
-**Course Project**: This project explores binary classification of loan applications using various classifiers and evaluates the impact of dimensionality reduction through PCA on classifier performance.
+**Course Project**: This project explores binary classification of loan applications using various classifiers and evaluates the impact of dimensionality reduction through PCA on classifier performance.This was a part of my machine learning course DATA 603.
 
 ---
 
